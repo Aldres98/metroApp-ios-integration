@@ -1,0 +1,15 @@
+${PODS_ROOT}/Target Support Files/Pods-SybwayMap/Pods-SybwayMap-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Cordova/Cordova.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-camera/cordova_plugin_camera.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-contacts/cordova_plugin_contacts.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-device/cordova_plugin_device.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-device-motion/cordova_plugin_device_motion.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-device-orientation/cordova_plugin_device_orientation.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-file/cordova_plugin_file.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-geolocation/cordova_plugin_geolocation.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-globalization/cordova_plugin_globalization.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-media-capture/cordova_plugin_media_capture.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-network-information/cordova_plugin_network_information.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-splashscreen/cordova_plugin_splashscreen.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-statusbar/cordova_plugin_statusbar.framework
+${BUILT_PRODUCTS_DIR}/cordova-plugin-vibration/cordova_plugin_vibration.framework
